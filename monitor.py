@@ -12,7 +12,7 @@ WATCH_LIST = [
     "Artisan Brick",
     "Astral Shard",
     "Heart Locket",
-    "Swiss Watch",
+    "Lol Pop",
 ]
 
 THRESHOLD = 3.0  # уведомление если изменение больше 3%
