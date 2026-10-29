@@ -8,10 +8,10 @@ from TelegramGifts import TelegramGifts
 WATCH_LIST = [
     "Plush Pepe",
     "Durov's Cap",
-    "Precious Peach",
-    "Artisan Brick",
-    "Astral Shard",
-    "Heart Locket",
+    "Snoop Dogg",
+    "Liberty Figure",
+    "Vice Cream",
+    "Chill Flame",
     "Lol Pop",
 ]
 
